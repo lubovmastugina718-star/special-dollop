@@ -9,3 +9,5 @@ Fix formatting
 ## Update
 
 Update CI/CD config
+
+# Improve error handling
