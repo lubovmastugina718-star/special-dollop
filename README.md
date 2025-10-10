@@ -11,3 +11,7 @@ Fix formatting
 Update CI/CD config
 
 # Improve error handling
+
+## Update
+
+Add logging
