@@ -19,3 +19,7 @@ Add logging
 ## Update
 
 Add feature flag
+
+## Update
+
+Fix memory allocation
