@@ -23,3 +23,7 @@ Add feature flag
 ## Update
 
 Fix memory allocation
+
+## Update
+
+Fix memory leak
