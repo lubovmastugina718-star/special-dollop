@@ -27,3 +27,7 @@ Fix memory allocation
 ## Update
 
 Fix memory leak
+
+## Update
+
+Add retry logic
