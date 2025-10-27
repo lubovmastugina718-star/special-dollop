@@ -31,3 +31,7 @@ Fix memory leak
 ## Update
 
 Add retry logic
+
+## Update
+
+Fix race condition
