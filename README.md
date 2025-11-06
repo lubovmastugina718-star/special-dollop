@@ -35,3 +35,7 @@ Add retry logic
 ## Update
 
 Fix race condition
+
+## Update
+
+Fix formatting
