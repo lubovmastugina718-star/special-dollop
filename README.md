@@ -39,3 +39,7 @@ Fix race condition
 ## Update
 
 Fix formatting
+
+## Update
+
+Update environment variables
