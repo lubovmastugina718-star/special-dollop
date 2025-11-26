@@ -47,3 +47,7 @@ Update environment variables
 ## Update
 
 Add caching mechanism
+
+## Update
+
+Update API documentation
