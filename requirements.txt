@@ -1,1 +1,3 @@
 # Fix memory allocation
+
+# Add type hints
