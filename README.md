@@ -51,3 +51,7 @@ Add caching mechanism
 ## Update
 
 Update API documentation
+
+## Update
+
+Fix memory allocation
