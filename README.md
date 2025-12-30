@@ -55,3 +55,7 @@ Update API documentation
 ## Update
 
 Fix memory allocation
+
+## Update
+
+Update config files
