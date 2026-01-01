@@ -3,3 +3,5 @@ export default function app() {
 }
 
 # Fix async/await issue
+
+# Update environment variables
