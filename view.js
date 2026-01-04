@@ -6,3 +6,5 @@ function view() {
 # Update API documentation
 
 # Update dependencies
+
+# Fix memory leak
