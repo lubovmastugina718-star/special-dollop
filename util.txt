@@ -3,3 +3,5 @@ util
 Fix race condition
 
 # Update documentation
+
+# Add type hints
