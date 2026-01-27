@@ -5,3 +5,5 @@ node_modules/
 # Add logging
 
 # Fix memory leak
+
+# Add error handling
